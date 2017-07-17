@@ -1,0 +1,40 @@
+﻿body {
+}
+
+.w3-text{
+    color:darkturquoise;
+    font-weight:bold;
+    font-family:'Calisto MT';
+}
+
+.w3{
+    color:darkturquoise;
+    background-color:crimson;
+}
+
+.w3-bar b{
+    color:crimson;
+}
+
+.w3-bar b2{
+    color:darkturquoise;
+}
+
+.w4{
+    color:darkturquoise;
+    background-color:transparent;
+    font-weight:bold;
+}
+
+.w4-content{
+    background-color:aliceblue;
+}
+
+.w7 {
+    color:crimson;
+}
+
+footer{
+    background-color:darkturquoise;
+    color:crimson;
+}
